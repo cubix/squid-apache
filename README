@@ -1,0 +1,1 @@
+Convert Squid logs to Apache format. Merges squid logs (respecting chronological order).
